@@ -1,15 +1,33 @@
-# cybersecurity-portfolio
-My cybersecurity learning journey, projects, and writeups
+#  Cybersecurity Portfolio - Santhosh Kannan
 
-# My Cybersecurity Portfolio
+Hi! I’m Santhosh kannan, an aspiring Cybersecurity Analyst.  
+This repo is my learning journey, projects, and hands-on practice.  
+I update it regularly to show my progress.  
 
-Hi, I’m Santhosh Kannan !  
-I am learning Cybersecurity and documenting my journey here.  
+---
 
-## Portfolio
-- **Projects/** → My coding and security tool experiments  
-- **Writeups/** → Notes from labs, TryHackMe, HackTheBox, etc.  
-- **Cheatsheets/** → My personal notes  
+## ��� Portfolio Contents
+-  **Projects/** → Python/Bash tools I built  
+-  **Writeups/** → TryHackMe / HackTheBox / Lab notes  
+-  **Cheatsheets/** → Commands & references I use  
+
+---
+
+##  Featured Projects
+- [Port Scanner](Projects/Port-Scanner) → Python script to detect open ports  
+- More coming soon...  
+
+---
+
+##  Current Goals
+- Learn Networking, Linux, and Security Tools (Nmap, Wireshark)  
+- Build small tools and automation in Python  
+- Practice SOC skills: log analysis, threat detection  
+- Document daily learning  
+
+---
 
 ##  Connect With Me
+- LinkedIn: https://www.linkedin.com/in/santhoshc2010/  
 - GitHub: https://github.com/kannancsksanthosh/
+
