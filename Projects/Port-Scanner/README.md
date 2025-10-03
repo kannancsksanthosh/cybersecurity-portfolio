@@ -1,4 +1,4 @@
-# í´Ž Port Scanner
+# Port Scanner
 
 A simple Python script that scans open ports on a target host.  
 
